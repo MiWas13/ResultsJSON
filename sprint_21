@@ -5,25 +5,25 @@
         "id": 1,
         "image_url": "Спортивная новость",
         "name": "Coming Apart",
-        "artist": "Joywave",
+        "artist": "Joywave"
       },
       {
         "id": 2,
         "image_url": "Спортивная новость",
         "name": "She knows",
-        "artist": "J. Cole",
+        "artist": "J. Cole"
       },
       {
         "id": 3,
         "image_url": "Спортивная новость",
         "name": "No Words",
-        "artist": "Big Wild",
+        "artist": "Big Wild"
       },
       {
         "id": 4,
         "image_url": "Спортивная новость",
         "name": "Макарэна",
-        "artist": "Каста",
+        "artist": "Каста"
       }
     ]
 }
