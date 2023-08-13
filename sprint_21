@@ -3,25 +3,25 @@
   "data": [
       {
         "id": 1,
-        "image_url": "Спортивная новость",
+        "image_url": "https://i1.sndcdn.com/artworks-aW1gkms3BhQA-0-t500x500.jpg",
         "name": "Coming Apart",
         "artist": "Joywave"
       },
       {
         "id": 2,
-        "image_url": "Спортивная новость",
+        "image_url": "https://images.genius.com/fbfa7c8b3518f456c489c0bc1cf3ffd5.1000x1000x1.jpg",
         "name": "She knows",
         "artist": "J. Cole"
       },
       {
         "id": 3,
-        "image_url": "Спортивная новость",
+        "image_url": "https://i1.sndcdn.com/artworks-nOdQr0WlQAYv-0-t500x500.png",
         "name": "No Words",
         "artist": "Big Wild"
       },
       {
         "id": 4,
-        "image_url": "Спортивная новость",
+        "image_url": "https://images.genius.com/d48372364c41fba926a92f43cd8c8f70.650x650x1.jpg",
         "name": "Макарэна",
         "artist": "Каста"
       }
